@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  license: MyText
+  longitude: MyText
+  latitude: MyText
+
+two:
+  license: MyText
+  longitude: MyText
+  latitude: MyText
